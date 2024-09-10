@@ -35,6 +35,7 @@ html {
 }
 
 .add2:hover {
+	cursor: pointer;
 	background-color: #3e48b5;
 }
 
