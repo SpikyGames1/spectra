@@ -1,0 +1,24 @@
+* {
+    font-family: Montserrat;
+}
+
+html {
+    background-color: #313338;
+    color: white;
+}
+
+body {
+    background-color: #1e1f22;
+    margin: 10vh 10vw 0 10vw;
+    border-radius: 20px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: clamp(2rem, 4vw, 3.25rem);
+    margin-top: 10vh;
+}
+
+.lavendertext {
+    color: #9966CC;
+}
